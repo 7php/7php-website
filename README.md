@@ -1,9 +1,9 @@
 # 7php Website
-As of July 2017, I have decided put some of my content on github (copyrighted to 7PHP.COM) &amp; open up for contributions.
+As of July 2017, I have decided to put some of my contents on github (copyrighted to 7PHP.COM) &amp; open up for contributions.
 
-**7PHP** has been reloaded after its hactius, read more at: [https://7php.com/v3/](https://7php.com/v3/)
+**7PHP** has been reloaded after its hiatus, read more at: [https://7php.com/v3/](https://7php.com/v3/)
 
-So, I will as part of that new refreshed chapter, I'm going to try new things.
+So, as part of that new refreshed chapter, I'm going to try new things.
 
 ### BRANCH posts
 
@@ -23,3 +23,6 @@ So, I will as part of that new refreshed chapter, I'm going to try new things.
 - I need all my articles to be translated into French and {YOUR_LANGUAGE}. So I warmly welcome your help & contributions.
 - Checkout the branch **posts** and submit your PRs.
 
+
+
+#### I'M THANKFUL TO YOUR RESPONSES
